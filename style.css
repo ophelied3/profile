@@ -1,0 +1,122 @@
+/* Here goes your CSS */
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: #EBEBEB;
+  text-align: center;
+}
+
+#sidebar {
+  position: fixed;
+  width: 120px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #2E3B3E;
+}
+
+#sidebar a {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 25px;
+}
+
+#sidebar a:hover {
+  color: rgba(255, 255, 255, 1);
+}
+
+#sidebar li {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#page-content {
+  margin-left: 300px;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.container li {
+    display: inline-block;
+    padding: 20px;
+    font-size: 18px;
+
+}
+
+.card {
+    padding: 20px;
+    border-radius: 4px;
+    background-color: white;
+}
+
+ul {
+  padding: 0px;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#img-circle {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 130px;
+}
+
+h1 {
+  color: #2E3B3E;
+  font-size: 25px;
+}
+
+h2 {
+  color: #50666B;
+  font-size: 18px;
+}
+
+h3 {
+  color: #FD6378;
+  font-size: 16px;
+}
+
+p {
+  font-size: 14px;
+  margin-bottom: 30px;
+
+}
+
+#pink-button {
+  color: white;
+  background: #FD6378;
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.link {
+  color: #50666B;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #2E3B3E;
+}
+
+.hobbies-images {
+  height: 200px;
+  width: auto;
+  border-radius: 5px;
+}
+
+.icone {
+  font-size: 25px;
+}
+
+
+
+
+
+
+
+
